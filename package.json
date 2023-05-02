@@ -1,6 +1,6 @@
 {
   "name": "Hardhat.demo",
-  "packageManager": "yarn@3.5.0",
+  "packageManager": "yarn@3.5.1",
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^1.0.0",
     "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
